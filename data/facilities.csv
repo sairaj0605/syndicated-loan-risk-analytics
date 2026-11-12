@@ -1,0 +1,49 @@
+facility_id,borrower,industry,commitment_usd,utilisation_pct,risk_rating,spread_bps,maturity_date
+F001,Synthetic Borrower 01,Healthcare,6750000,47,2,148,2027-08-15
+F002,Synthetic Borrower 02,Industrials,8500000,64,3,171,2027-03-15
+F003,Synthetic Borrower 03,Consumer,10250000,81,4,194,2027-10-15
+F004,Synthetic Borrower 04,Energy,12000000,32,5,217,2027-05-15
+F005,Synthetic Borrower 05,Financial Services,13750000,49,1,240,2027-12-15
+F006,Synthetic Borrower 06,Technology,15500000,66,2,263,2027-07-15
+F007,Synthetic Borrower 07,Healthcare,17250000,83,3,286,2027-02-15
+F008,Synthetic Borrower 08,Industrials,19000000,34,4,309,2027-09-15
+F009,Synthetic Borrower 09,Consumer,20750000,51,5,332,2027-04-15
+F010,Synthetic Borrower 10,Energy,22500000,68,1,355,2027-11-15
+F011,Synthetic Borrower 11,Financial Services,24250000,85,2,378,2027-06-15
+F012,Synthetic Borrower 12,Technology,5000000,36,3,401,2027-01-15
+F013,Synthetic Borrower 13,Healthcare,6750000,53,4,424,2027-08-15
+F014,Synthetic Borrower 14,Industrials,8500000,70,5,447,2027-03-15
+F015,Synthetic Borrower 15,Consumer,10250000,87,1,470,2028-10-15
+F016,Synthetic Borrower 16,Energy,12000000,38,2,142,2028-05-15
+F017,Synthetic Borrower 17,Financial Services,13750000,55,3,165,2028-12-15
+F018,Synthetic Borrower 18,Technology,15500000,72,4,188,2028-07-15
+F019,Synthetic Borrower 19,Healthcare,17250000,89,5,211,2028-02-15
+F020,Synthetic Borrower 20,Industrials,19000000,40,1,234,2028-09-15
+F021,Synthetic Borrower 21,Consumer,20750000,57,2,257,2028-04-15
+F022,Synthetic Borrower 22,Energy,22500000,74,3,280,2028-11-15
+F023,Synthetic Borrower 23,Financial Services,24250000,91,4,303,2028-06-15
+F024,Synthetic Borrower 24,Technology,5000000,42,5,326,2028-01-15
+F025,Synthetic Borrower 01,Healthcare,6750000,59,1,349,2028-08-15
+F026,Synthetic Borrower 02,Industrials,8500000,76,2,372,2028-03-15
+F027,Synthetic Borrower 03,Consumer,10250000,93,3,395,2028-10-15
+F028,Synthetic Borrower 04,Energy,12000000,44,4,418,2028-05-15
+F029,Synthetic Borrower 05,Financial Services,13750000,61,5,441,2028-12-15
+F030,Synthetic Borrower 06,Technology,15500000,78,1,464,2029-07-15
+F031,Synthetic Borrower 07,Healthcare,17250000,95,2,136,2029-02-15
+F032,Synthetic Borrower 08,Industrials,19000000,46,3,159,2029-09-15
+F033,Synthetic Borrower 09,Consumer,20750000,63,4,182,2029-04-15
+F034,Synthetic Borrower 10,Energy,22500000,80,5,205,2029-11-15
+F035,Synthetic Borrower 11,Financial Services,24250000,31,1,228,2029-06-15
+F036,Synthetic Borrower 12,Technology,5000000,48,2,251,2029-01-15
+F037,Synthetic Borrower 13,Healthcare,6750000,65,3,274,2029-08-15
+F038,Synthetic Borrower 14,Industrials,8500000,82,4,297,2029-03-15
+F039,Synthetic Borrower 15,Consumer,10250000,33,5,320,2029-10-15
+F040,Synthetic Borrower 16,Energy,12000000,50,1,343,2029-05-15
+F041,Synthetic Borrower 17,Financial Services,13750000,67,2,366,2029-12-15
+F042,Synthetic Borrower 18,Technology,15500000,84,3,389,2029-07-15
+F043,Synthetic Borrower 19,Healthcare,17250000,35,4,412,2029-02-15
+F044,Synthetic Borrower 20,Industrials,19000000,52,5,435,2029-09-15
+F045,Synthetic Borrower 21,Consumer,20750000,69,1,458,2030-04-15
+F046,Synthetic Borrower 22,Energy,22500000,86,2,130,2030-11-15
+F047,Synthetic Borrower 23,Financial Services,24250000,37,3,153,2030-06-15
+F048,Synthetic Borrower 24,Technology,5000000,54,4,176,2030-01-15
